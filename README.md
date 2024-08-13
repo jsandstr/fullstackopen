@@ -1,2 +1,2 @@
-# [fullstackopen] (https://fullstackopen.com/en/)
+# [fullstackopen](https://fullstackopen.com/en/)
 
